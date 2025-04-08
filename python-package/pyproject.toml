@@ -15,7 +15,7 @@ authors = [
 dependencies = [
     "duckdb",
     "pandas",
-    "shiny",
+    "shiny>=1.4.0",
     "shinywidgets",
     "htmltools",
     "chatlas",
